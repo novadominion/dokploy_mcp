@@ -502,4 +502,4 @@ If you encounter any issues, have questions, or want to suggest a feature, pleas
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
