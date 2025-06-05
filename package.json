@@ -1,6 +1,6 @@
 {
   "name": "@ahdev/dokploy-mcp",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "MCP Server for Dokploy API",
   "main": "build/index.js",
   "bin": {
@@ -40,7 +40,7 @@
     "url": "https://github.com/Dokploy/mcp/issues"
   },
   "homepage": "https://github.com/Dokploy/mcp#readme",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "type": "module",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.0",
